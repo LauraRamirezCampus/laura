@@ -68,3 +68,4 @@ print("El valor de la venta de todos los productos: ",valtp)
 print("el valor total del IVA: ",valTi)
 print("el valor de la venta de los productos sin IVA: ",valTsI)
     
+print('Jhon tevquiere mucho mucho')
